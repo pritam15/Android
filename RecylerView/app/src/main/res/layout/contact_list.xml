@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/contact_list"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:padding="8dp"
+    android:background="#74C8C8C8"
+    android:elevation="10dp">
+
+    <ImageView
+        android:id="@+id/profileImg"
+        android:layout_width="70dp"
+        android:layout_height="70dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_toRightOf="@+id/profileImg"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/personName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Person Name"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_marginLeft="2.5dp"
+            android:paddingLeft="5dp"
+            />
+        <TextView
+            android:id="@+id/personNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Number"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:layout_marginLeft="2.5dp"
+            android:paddingLeft="20dp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

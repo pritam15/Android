@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:id="@+id/cardView"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardBackgroundColor="#DDF8E28A"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="10dp"
+    android:padding="3dp"
+    android:layout_margin ="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_marginBottom="15dp"
+            android:layout_gravity="end">
+
+            <ImageView
+                android:id="@+id/cancelIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_round_cancel_24"/>
+
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/notesTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="title"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:layout_marginBottom="5dp"/>
+
+        <TextView
+            android:id="@+id/notesDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Description"
+            android:textSize="16sp"
+            android:layout_marginBottom="5dp"
+            android:inputType="textMultiLine"/>
+
+
+        <TextView
+            android:id="@+id/dateTime"
+            android:inputType="datetime"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            tools:text="Dec 15 6:43:45 PM"
+            android:layout_gravity="start"
+            android:text="15sp"/>
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ContactPage_2"
+    android:background="@color/black"
+    android:padding="15dp">
+
+    <ImageView
+        android:id="@+id/personImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/businessman1"
+        android:padding="20dp"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:id="@+id/contactPerson"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="5dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <ImageView
+            android:id="@+id/callIcon"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:src="@drawable/phone_solid"
+            android:padding="5dp"/>
+
+        <TextView
+            android:id="@+id/callTxtView"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/callIcon"
+            android:text="Call"
+            android:textAlignment="center"
+            android:textColor="#0167B8"
+            android:textSize="25dp"/>
+
+        <ImageView
+            android:id="@+id/messageIcon"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:src="@drawable/message_solid" />
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/messageIcon"
+            android:layout_centerHorizontal="true"
+
+            android:text="Text"
+            android:textAlignment="center"
+            android:textColor="#0167B8"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:id="@+id/VideoCallIcon"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:padding="5dp"
+            android:src="@drawable/video_solid" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/messageIcon"
+            android:layout_alignParentEnd="true"
+            android:text="Video Call"
+            android:textAlignment="center"
+            android:textColor="#0167B8"
+            android:textSize="25dp" />
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/contactNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+
+
+</LinearLayout>

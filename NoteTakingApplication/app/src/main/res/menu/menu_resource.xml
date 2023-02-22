@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Add New Note"
+        android:id="@+id/add_note"
+        android:icon="@drawable/add_note_icon"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:title="Delete All"
+        android:id="@+id/deleteAll"
+        android:icon="@drawable/delete_allnote"
+        app:showAsAction="withText|always"
+        />
+</menu>

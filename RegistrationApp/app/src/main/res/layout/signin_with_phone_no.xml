@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SigninWithPhoneNo"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/mobileNoInput"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:ems="11"
+        android:hint="Enter Your Mobile No."
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:layout_marginTop="100dp"/>
+
+    <Button
+        android:id="@+id/getOTPBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:text="Get OTP"
+        android:textAllCaps="false"
+        android:textSize="17sp"/>
+
+    <EditText
+        android:id="@+id/OTPfield"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:ems="11"
+        android:hint="Enter OTP"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:layout_marginTop="50dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/OTPVerificationBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:text="Verify OTP"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        android:visibility="gone"/>
+
+
+</LinearLayout>

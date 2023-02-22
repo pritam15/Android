@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_btn">+</string>
+    <string name="card_hint">Title</string>
+</resources>

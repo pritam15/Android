@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistartionPage"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/register_page_bg">
+
+
+    <View
+        android:layout_width="110dp"
+        android:layout_height="5dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edit_text_bg"/>
+
+
+    <ImageView
+        android:id="@+id/profileImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/profile_logo"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:text="Tap on image to choose profile image"
+        android:textColor="@color/white" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:outlineAmbientShadowColor="@color/red"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/input_name"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:hint="Name"
+        android:ems="15"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:background="@drawable/edit_text_bg"
+        android:textColorHint="#B0ACAC"
+        android:layout_marginTop="30dp"
+        android:padding="8dp"/>
+
+    <EditText
+        android:id="@+id/input_age"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:hint="Age"
+        android:ems="15"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/edit_text_bg"
+        android:textColorHint="#B0ACAC"
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/input_email"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:background="@drawable/edit_text_bg"
+        android:hint="Email"
+        android:textColor="@color/white"
+        android:textColorHint="#B0ACAC"
+        android:padding="8dp"
+        android:ems="15"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/register_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp"
+        android:layout_marginVertical="20dp"
+        android:background="@drawable/button_bg"/>
+
+
+</LinearLayout>
