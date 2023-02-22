@@ -1,0 +1,636 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What name did &quot;Mario&quot;, from &quot;Super Mario Brothers&quot;, originally have?",
+      "correct_answer": "Ossan",
+      "incorrect_answers": [
+        "Jumpman",
+        "Mr. Video",
+        "Mario",
+        "Ossan"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the punishment for playing Postal 2 in New Zealand?",
+      "correct_answer": "10 years in prison and a fine of $50,000",
+      "incorrect_answers": [
+        "Fine of $5,000",
+        "Nothing",
+        "15 years in prison and a fine of $10,000",
+        "10 years in prison and a fine of $50,000"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The seed drill was invented by which British inventor?",
+      "correct_answer": "Jethro Tull",
+      "incorrect_answers": [
+        "Charles Babbage",
+        "Isaac Newton",
+        "J.J Thomson",
+        "The seed drill was invented by which British inventor?"
+        
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the title of ABBA`s first UK hit single?",
+      "correct_answer": "Waterloo",
+      "incorrect_answers": [
+        "Waterloo",
+        "Mamma Mia",
+        "Fernando",
+        "Dancing Queen",
+        
+        
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+      "correct_answer": "Uma Thurman",
+      "incorrect_answers": [
+        "Kathy Griffin",
+        "Pam Grier",
+        "Uma Thurman",
+        "Bridget Fonda"
+        
+        ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Japan was part of the Allied Powers during World War I.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "True"
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many counties in the Republic of Ireland.",
+      "correct_answer": 
+      "incorrect_answers": [
+        "32",
+        "28",
+        "26",
+        "30"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?",
+      "correct_answer": "Gort",
+      "incorrect_answers": [
+        "Robby",
+        "Gort"
+        "Colossus",
+        "Box"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+      "correct_answer": "Government",
+      "incorrect_answers": [
+        "Government"
+        "Going",
+        "Ghost",
+        "Geronimo"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these video game engines was made by the company Epic Games?",
+      "correct_answer": "Unreal",
+      "incorrect_answers": [
+        "Unity",
+        "Unreal"
+        "Game Maker: Studio",
+        "Cry Engine"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By what name was the author Eric Blair better known?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": [
+        "Aldous Huxley",
+        "Ernest Hemingway",
+        "Ray Bradbury",
+        "George Orwell"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which country is completely landlocked by South Africa?",
+      "correct_answer": "Lesotho",
+      "incorrect_answers": [
+        "Swaziland",
+        "Botswana",
+        "Lesotho",
+        "Zimbabwe"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+      "correct_answer": "Lamar",
+      "incorrect_answers": [
+        "Trevor",
+        "Lamar"
+        "Michael",
+        "Franklin"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+      "correct_answer": "Lishana Deni",
+      "incorrect_answers": [
+        "Hulaul&aacute;",
+        "Lishana Deni",
+        "Lishan Didan",
+        "Chaldean Neo-Aramaic"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
+      "correct_answer": "Aston Martin Vulcan",
+      "incorrect_answers": [
+        "Aston Martin Vulcan",
+        "Ferrari FXX-K",
+        "McLaren P1 GTR",
+        "Lotus E23"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was given the title &quot;Full Metal&quot; in the anime series &quot;Full Metal Alchemist&quot;?",
+      "correct_answer": "Edward Elric",
+      "incorrect_answers": [
+        "Alphonse Elric",
+        "Edward Elric"
+        "Van Hohenheim",
+        "Izumi Curtis"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "False",
+        "True"
+        
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who plays Alice in the Resident Evil movies?",
+      "correct_answer": "Milla Jovovich",
+      "incorrect_answers": [
+        "Madison Derpe",
+        "Milla Johnson",
+        "Kim Demp",
+        "Milla Jovovich"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was &quot;JoJo&#039;s Bizarre Adventure: Phantom Blood&quot; first released?",
+      "correct_answer": "1987",
+      "incorrect_answers": [
+         "1987",
+        "2013",
+        "1983",
+        "1995"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the protagonist in Dead Rising (2006)?",
+      "correct_answer": "Frank West",
+      "incorrect_answers": [
+        
+        "Chuck Greene",
+        "John North",
+        "Frank West",
+        "Jason Grey"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the first weapon you acquire in Half-Life?",
+      "correct_answer": "A crowbar",
+      "incorrect_answers": [
+        "A pistol",
+        "The H.E.V suit",
+        "A crowbar",
+        "Your fists"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the area of Vatican City?",
+      "correct_answer": "0.44km^2",
+      "incorrect_answers": [
+        "0.10km^2",
+        "0.86km^2",
+        "12.00km^2",
+        "0.44km^2"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the real name of the Albanian national leader Skanderbeg?",
+      "correct_answer": "Gjergj Kastrioti",
+      "incorrect_answers": [
+        "Diturak Zhulati",
+        "Gjergj Kastrioti",
+        "Iskander Bejko",
+        "Mirash Krasniki"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the United States Declaration of Independence signed?",
+      "correct_answer": "1776",
+      "incorrect_answers": [
+        "1776",
+        "1775",
+        "1774",
+        "1777"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False",
+        "True"
+              ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+      "correct_answer": "Quote",
+      "incorrect_answers": [
+        "Kazuma",
+        "Quote",
+        "Curly",
+        "Arthur"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+       "False",
+        "True"
+        
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the &quot;Toaru Kagaku no Railgun&quot; anime,  espers can only reach a maximum of level 6 in their abilities.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following games in the Anno series introduced the &quot;Eco Balance&quot; gameplay mechanic?",
+      "correct_answer": "Anno 2070",
+      "incorrect_answers": [
+        "Anno 1404",
+        "Anno 2070",
+        "Anno 2205",
+        " Anno 1701"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following was NOT a playable character in the game Kingdom Hearts: Birth by Sleep?",
+      "correct_answer": "Ignis",
+      "incorrect_answers": [
+        "Ventus",
+        "Terra",
+        "Aqua",
+        "Ignis"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Animal Crossing game was for the Nintendo Wii?",
+      "correct_answer": "Animal Crossing: City Folk",
+      "incorrect_answers": [
+        "Animal Crossing: New Leaf",
+        "Animal Crossing: City Folk",
+        "Animal Crossing: Wild World",
+        "Animal Crossing: Population Growing!"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Pok&eacute;mon, Arbok evolves into Seviper.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "False",
+        "True"
+        
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
+      "correct_answer": "The Gage Weapon Pack #1",
+      "incorrect_answers": [
+        "The Gage Weapon Pack #1",
+        "The Overkill Pack",
+        "The Gage Chivalry Pack",
+        "The Gage Historical Pack"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Bob Ross was a US Air Force pilot.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Kirby game first introduced Copy Abilities?",
+      "correct_answer": "Kirby&#039;s Adventure",
+      "incorrect_answers": [
+        "Kirby Super Star",
+        "Kirby&#039;s Dream Land 2",
+        "Kirby&#039;s Dream Land",
+        "Kirby&#039;s Adventure"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In &quot;Star Trek&quot;, Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?",
+      "correct_answer": "Spookit",
+      "incorrect_answers": [
+        "Petricub",
+        "Trictus",
+        "Spookit",
+        "Pyromantle"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+      "correct_answer": "Double Tap Root Beer",
+      "incorrect_answers": [
+        "Double Tap Root Beer",
+        "Who&#039;s Who",
+        "Juggernog",
+        "Mule Kick"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+      "correct_answer": "Sri Lanka",
+      "incorrect_answers": [
+        "Kiribati",
+        "Scotland",
+        "Sri Lanka",
+        "Bhutan"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "correct_answer": "Transport",
+      "incorrect_answers": [
+        "Session",
+        "Data link",
+        "Network"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What machine element is located in the center of fidget spinners?",
+      "correct_answer": "Bearings",
+      "incorrect_answers": [
+        "Axles",
+        "Bearings",
+        "Gears",
+        "Belts"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where does the original Friday The 13th movie take place?",
+      "correct_answer": "Camp Crystal Lake",
+      "incorrect_answers": [
+        "Packanack",
+        "Higgins Haven",
+        "Camp Forest Green",
+        "Camp Crystal Lake"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+      "correct_answer": "March 25th",
+      "incorrect_answers": [
+        "March 25th",
+        "June 1st",
+        "September 25th",
+        "December 1st"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Nickelodeon is owned by what parent company?",
+      "correct_answer": "Viacom",
+      "incorrect_answers": [
+        "CBS",
+        "Viacom",
+        "FOX",
+        "ABC"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The Paradox Interactive game &quot;Stellaris&quot; was released in 2016.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What are the Three Virtues of Bionicle?",
+      "correct_answer": "Unity, Duty, Destiny",
+      "incorrect_answers": [
+        "Build, Play, Change",
+        "Work, Play, Live",
+        "Forge, Build, Fight",
+        "Unity, Duty, Destiny"
+      ]
+    }
+  ]
+}
